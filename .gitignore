@@ -8,3 +8,4 @@ coverage
 apps/*/dist
 apps/*/.vite
 apps/*/node_modules
+*.tsbuildinfo
