@@ -18,7 +18,6 @@
 ## Live Demo
 
 - Mini App: `https://185.71.65.209.sslip.io`
-- Admin Panel: `https://185.71.65.209.sslip.io/admin/`
 - API Health: `https://185.71.65.209.sslip.io/api/health`
 
 ## Моя роль в кейсе
