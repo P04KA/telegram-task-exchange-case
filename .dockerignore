@@ -1,0 +1,8 @@
+node_modules
+apps/*/node_modules
+apps/*/dist
+.git
+.DS_Store
+.env
+.env.production
+npm-debug.log
